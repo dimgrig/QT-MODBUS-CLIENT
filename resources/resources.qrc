@@ -1,0 +1,80 @@
+<RCC>
+    <qresource prefix="/qss">
+        <file>styles/style.qss</file>
+    </qresource>
+    <qresource prefix="/translations">
+        <file>qtbase_ru.qm</file>
+    </qresource>
+    <qresource prefix="/json">
+        <file>json/modbus.json</file>
+    </qresource>
+    <qresource prefix="/icons">
+        <file>apply.svg</file>
+        <file>pusk.svg</file>
+        <file>stop.svg</file>
+        <file>test.svg</file>
+        <file>calibration.svg</file>
+        <file>status.svg</file>
+        <file>back.svg</file>
+        <file>blanc.png</file>
+        <file>chart.svg</file>
+        <file>complex_system.svg</file>
+        <file>exit.svg</file>
+        <file>forward.svg</file>
+        <file>led_green_off.svg</file>
+        <file>led_green_on.svg</file>
+        <file>led_red_off.svg</file>
+        <file>led_red_on.svg</file>
+        <file>less.svg</file>
+        <file>locked.svg</file>
+        <file>more.svg</file>
+        <file>next.svg</file>
+        <file>pause.svg</file>
+        <file>play.svg</file>
+        <file>previous.svg</file>
+        <file>query_settings.svg</file>
+        <file>right.svg</file>
+        <file>right_down.svg</file>
+        <file>right_up.svg</file>
+        <file>sensor.svg</file>
+        <file>settings.svg</file>
+        <file>twostate_switch_h_off.svg</file>
+        <file>twostate_switch_h_on.svg</file>
+        <file>twostate_switch_off.svg</file>
+        <file>twostate_switch_on.svg</file>
+        <file>unlocked.svg</file>
+        <file>reset.svg</file>
+        <file>delete.svg</file>
+        <file>add_test.svg</file>
+        <file>delete_test.svg</file>
+        <file>drawing.svg</file>
+        <file>drawsvg.svg</file>
+        <file>histogram.svg</file>
+        <file>load.svg</file>
+        <file>open.svg</file>
+        <file>oscillogram.svg</file>
+        <file>qtbase_ru.qm</file>
+        <file>resources.qrc</file>
+        <file>run_all.svg</file>
+        <file>run_train.svg</file>
+        <file>run.svg</file>
+        <file>save_as.svg</file>
+        <file>save.svg</file>
+        <file>toggle_left.svg</file>
+        <file>toggle_right.svg</file>
+        <file>close.svg</file>
+        <file>selftest.svg</file>
+        <file>ACS_LOGO.svg</file>
+        <file>app_diode.ico</file>
+        <file>app_diode.svg</file>
+        <file>app_fet2.ico</file>
+        <file>app_fet2.svg</file>
+        <file>app_fet5.ico</file>
+        <file>app_fet5.svg</file>
+        <file>splash_diode.svg</file>
+        <file>splash_fet2.svg</file>
+        <file>splash_fet5.svg</file>
+        <file>stm32_pinout.svg</file>
+    </qresource>
+    <qresource prefix="/bg"/>
+</RCC>
